@@ -9,5 +9,8 @@ This is a WFM Testing tool, which will connect to your Workflow Manager and exec
 5.  Complete the Workflow
 6.  Unregister the test scope
 
-
 Simply run the command from your Workflow or SharePoint Server and input the WFM host and port.
+
+Exmaple:
+
+![image](https://github.com/mikelee1313/wfmquicktest/blob/main/wfmquicktest.png)
